@@ -13,7 +13,11 @@ jQuery(document).ready(function(){
                     user: globalvars.current_user
                 },
                 success:function(data){
-                    console.log(data);                    
+                    console.log(data); 
+                    
+                    // Based on Data 
+                    // Javascript Logic 
+                    
                 }
         });
     });
